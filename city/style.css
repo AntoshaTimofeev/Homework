@@ -1,12 +1,12 @@
 .wrapper {
     display: flex;
     align-items: center;
-    height: 50vh;
+    height: 60vh;
 }
 
 .night__city-pic {
     height: 100vh;
-    width: 2500px;
+    width: 2400px;
     object-fit: cover;
     transition: 2s all linear;
 }
