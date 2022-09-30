@@ -7,11 +7,11 @@ body {
 }
 
 p {
-    padding-left: 15px;
+    padding-left: 25px;
 }
 
 h3 {
-    padding-left: 15px;
+    padding-left: 25px;
 }
 
 h3:target {
@@ -21,7 +21,7 @@ h3:target {
 
 a {
     text-decoration: none;
-    color: rgb(136, 255, 0);
+    color: rgb(255, 0, 136);
 }
 
 a:hover {
@@ -35,8 +35,8 @@ a:active {
 .links {
     display: inline-block;
     background-color: white;
-    height: 170px;
-    width: 170px;
+    height: 200px;
+    width: 200px;
     border: solid 2px;
 }
 
@@ -45,7 +45,7 @@ a:active {
     padding: 15px;
     border-radius: 15px;
     display: inline-block;
-    border: solid 2px;
+    border: solid 5px;
 }
 
 .articles {
